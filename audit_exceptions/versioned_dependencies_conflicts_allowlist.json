@@ -1,8 +1,6 @@
 [
-  "anjuta",
   "hive",
-  "mpv",
-  "predictionio",
-  "sqoop",
-  "watchman"
+  "mariadb@10.4",
+  "mysql@5.7",
+  "sslyze"
 ]
