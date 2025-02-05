@@ -1,16 +1,11 @@
 [
-  "archey",
-  "astyle",
   "bittwist",
   "cspice",
-  "folderify",
-  "gcore",
-  "launch4j",
+  "flashrom",
+  "mlx",
   "organize-tool",
   "reattach-to-user-namespace",
-  "strongswan",
   "term",
-  "vifm",
   "wallpaper",
   "x264"
 ]

@@ -1,7 +1,20 @@
 [
+  "abseil",
   "aom",
-  "apache-arrow",
+  "blis",
+  "botan",
   "fftw",
+  "highway",
+  "knot",
   "libvpx",
-  "openblas"
+  "nsd",
+  "openblas",
+  "opencv",
+  "open-mpi",
+  "qt",
+  "spidermonkey",
+  "svt-av1",
+  "vc",
+  "x265",
+  "xxhash"
 ]
